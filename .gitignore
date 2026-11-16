@@ -1,0 +1,16 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Django database & local files
+db.sqlite3
+*.log
+
+# VS Code workspace
+.vscode/
+*.code-workspace
